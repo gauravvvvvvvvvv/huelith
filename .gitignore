@@ -1,0 +1,12 @@
+# Huelith build output
+**/build/
+**/.gradle/
+**/target/
+**/.idea/
+*.iml
+local.properties
+*.apk
+*.aab
+*.jks
+*.keystore
+.DS_Store
