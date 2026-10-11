@@ -1,0 +1,1 @@
+See `UPSTREAM_SOURCE.md` for the pinned LightCraft project, copyrights, attribution and the original repository URL. Official upstream README: https://github.com/storytold/lightcraft/blob/0ba118de92a81f7463ca0e6d79e1323137b1adae/README.md
